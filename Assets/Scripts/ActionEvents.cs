@@ -6,15 +6,19 @@ using UnityEngine.SceneManagement;
 public class ActionEvents: MonoBehaviour
 {
     public ManagerTest managerTest;
+    public ManagerOptometria managerOptometria;
 
     public void WasCorrectAnswer()
     {
         managerTest.correctAnswer++;
+        managerOptometria.appearTest(managerTest.numberQuestion);
         managerTest.numberQuestion++;
+       
     }
 
     public void WasIncorrectAnswer()
     {
+        managerOptometria.appearTest(managerTest.numberQuestion);
         managerTest.numberQuestion++;
     }
 
