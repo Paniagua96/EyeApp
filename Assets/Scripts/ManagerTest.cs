@@ -17,7 +17,7 @@ public class ManagerTest : MonoBehaviour
 
     public void Update()
     {
-        if (numberQuestion == 10)
+        if (numberQuestion == 7)
         {
             result.SetActive(true);
             StartCoroutine(backMenu());
