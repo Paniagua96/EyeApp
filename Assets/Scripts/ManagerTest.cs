@@ -6,7 +6,8 @@ using UnityEngine.Experimental.PlayerLoop;
 public class ManagerTest : MonoBehaviour
 {
     public int correctAnswer = 0;
-    public int numberQuestion = 0;
+    public int numberQuestion =0 ;
+    public int numberTotalQuestions;
     public GameObject result;
     
 
@@ -17,7 +18,7 @@ public class ManagerTest : MonoBehaviour
 
     public void Update()
     {
-        if (numberQuestion == 7)
+        if (numberQuestion == numberTotalQuestions+1)
         {
             result.SetActive(true);
             StartCoroutine(backMenu());
