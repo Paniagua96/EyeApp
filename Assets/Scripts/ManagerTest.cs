@@ -6,7 +6,7 @@ using UnityEngine.Experimental.PlayerLoop;
 public class ManagerTest : MonoBehaviour
 {
     public int correctAnswer = 0;
-    public int numberQuestion = 0;
+    public int numberQuestion = 1;
     public GameObject result;
     
 

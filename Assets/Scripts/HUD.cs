@@ -10,6 +10,7 @@ public class HUD: MonoBehaviour
     public Transform Image;
     public Text distance;
     public Text correctAnswer;
+    public Text correctAnswer2;
     public Text numberQuestion;
 
     // Update is called once per frame
@@ -19,6 +20,7 @@ public class HUD: MonoBehaviour
 
         this.distance.text = "Distancia Imagen: " + distance.ToString("f0")+" m";
         correctAnswer.text = "Correctas: " + managerTest.correctAnswer;
+        correctAnswer2.text = "Correctas: " + managerTest.correctAnswer;
         numberQuestion.text = "Pregunta: " + managerTest.numberQuestion;
 
     }
