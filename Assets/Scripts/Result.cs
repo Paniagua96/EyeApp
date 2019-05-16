@@ -19,27 +19,27 @@ public class Result : MonoBehaviour
         switch (correctAnswer)
         {
             case 1:
-                resultOptometria.text = "Necesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/200";
                 break;
             case 2:
-                resultOptometria.text = "ecesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/100";
                 break;
             case 3:
-                resultOptometria.text = "ecesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/70";
                 break;
             case 4:
-                resultOptometria.text = "ecesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/50";
                 break;
             case 5:
-                resultOptometria.text = "ecesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/40";
                 break;
             case 6:
-                resultOptometria.text = "ecesitas lentes amigo, agudeza visual: " +
+                resultOptometria.text = "Necesitas lentes , agudeza visual: " +
                                         " 20/30";
                 break;
             case 7:
