@@ -401,7 +401,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &300837204
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -519,6 +519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   managerTest: {fileID: 750172916}
+  managerOptometria: {fileID: 0}
 --- !u!1 &329357720
 GameObject:
   m_ObjectHideFlags: 0
@@ -553,6 +554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   managerTest: {fileID: 750172916}
+  managerOptometria: {fileID: 0}
 --- !u!114 &329357722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -808,6 +810,7 @@ MonoBehaviour:
   Image: {fileID: 300837207}
   distance: {fileID: 1229791624}
   correctAnswer: {fileID: 1445916231}
+  correctAnswer2: {fileID: 0}
   numberQuestion: {fileID: 697311614}
 --- !u!1001 &630627864
 PrefabInstance:
@@ -1443,6 +1446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   managerTest: {fileID: 750172916}
+  managerOptometria: {fileID: 0}
 --- !u!114 &807091169
 MonoBehaviour:
   m_ObjectHideFlags: 0
