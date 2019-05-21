@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 15e0a6ba930c5ab4b826f0b24781b332
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cuack
+    100002: //RootNode
+    100004: Cube
+    100006: Directional Light
+    100008: Group Locator
+    100010: Libros
+    100012: Mesh
+    100014: Mesh (10)
+    100016: Mesh (11)
+    100018: Mesh (12)
+    100020: Mesh (13)
+    100022: Mesh (14)
+    100024: Mesh (15)
+    100026: Mesh (16)
+    100028: Mesh (17)
+    100030: Mesh (18)
+    100032: Mesh (19)
+    100034: Mesh (2)
+    100036: Mesh (20)
+    100038: Mesh (22)
+    100040: Mesh (23)
+    100042: Mesh (24)
+    100044: Mesh (25)
+    100046: Mesh (3)
+    100048: Mesh (4)
+    100050: Mesh (5)
+    100052: Mesh (6)
+    100054: Mesh (7)
+    100056: Mesh (8)
+    100058: Mesh (9)
+    100060: Mesh 5
+    100062: silla
+    100064: Techo
+    100066: Texture Group
+    400000: cuack
+    400002: //RootNode
+    400004: Cube
+    400006: Directional Light
+    400008: Group Locator
+    400010: Libros
+    400012: Mesh
+    400014: Mesh (10)
+    400016: Mesh (11)
+    400018: Mesh (12)
+    400020: Mesh (13)
+    400022: Mesh (14)
+    400024: Mesh (15)
+    400026: Mesh (16)
+    400028: Mesh (17)
+    400030: Mesh (18)
+    400032: Mesh (19)
+    400034: Mesh (2)
+    400036: Mesh (20)
+    400038: Mesh (22)
+    400040: Mesh (23)
+    400042: Mesh (24)
+    400044: Mesh (25)
+    400046: Mesh (3)
+    400048: Mesh (4)
+    400050: Mesh (5)
+    400052: Mesh (6)
+    400054: Mesh (7)
+    400056: Mesh (8)
+    400058: Mesh (9)
+    400060: Mesh 5
+    400062: silla
+    400064: Techo
+    400066: Texture Group
+    2100000: Paredes
+    2100002: Piso
+    2100004: Ventana
+    2100006: Default
+    2100008: EscritorioDesk
+    2100010: EscritorioDeskMetal
+    2100012: Marco
+    2100014: Certification 2
+    2100016: Marcos 1
+    2100018: Cuadro 3
+    2100020: Cuadro 4
+    2100022: Marcos 2
+    2100024: Cuadro 6
+    2100026: Cuadro5
+    2100028: Cuadro 2
+    2100030: Puerta
+    2100032: Manija
+    2100034: Silla
+    2100036: Pata silla
+    2100038: Marco 1.1
+    2100040: Cuadro 9
+    2100042: Certification
+    2100044: Cuadro 8
+    2100046: Persianas
+    2100048: Cuadro 7
+    2100050: Marcos 3
+    2100052: Chrome
+    2100054: Silla 2
+    2100056: Rubber
+    2100058: Steel
+    2100060: Maceta
+    2100062: Book Pages
+    2100064: Binding 01
+    2100066: Binding 02
+    2100068: Binding 03
+    2100070: Binding 04
+    2100072: Binding 05
+    2100074: Binding 06
+    2100076: Cover 01
+    2100078: Cover 02
+    2100080: Cover 03
+    2100082: Cover 04
+    2100084: Cover 05
+    2100086: Cover 06
+    2100088: Liquid
+    2100090: Bottle Plastic
+    2100092: Bottle Cap
+    2300000: cuack
+    2300002: Cube
+    2300004: Libros
+    2300006: Mesh (10)
+    2300008: Mesh (11)
+    2300010: Mesh (12)
+    2300012: Mesh (13)
+    2300014: Mesh (14)
+    2300016: Mesh (15)
+    2300018: Mesh (16)
+    2300020: Mesh (17)
+    2300022: Mesh (18)
+    2300024: Mesh (19)
+    2300026: Mesh (2)
+    2300028: Mesh (20)
+    2300030: Mesh (22)
+    2300032: Mesh (23)
+    2300034: Mesh (24)
+    2300036: Mesh (25)
+    2300038: Mesh (3)
+    2300040: Mesh (4)
+    2300042: Mesh (5)
+    2300044: Mesh (6)
+    2300046: Mesh (7)
+    2300048: Mesh (8)
+    2300050: Mesh (9)
+    2300052: Mesh 5
+    2300054: silla
+    2300056: Techo
+    3300000: cuack
+    3300002: Cube
+    3300004: Libros
+    3300006: Mesh (10)
+    3300008: Mesh (11)
+    3300010: Mesh (12)
+    3300012: Mesh (13)
+    3300014: Mesh (14)
+    3300016: Mesh (15)
+    3300018: Mesh (16)
+    3300020: Mesh (17)
+    3300022: Mesh (18)
+    3300024: Mesh (19)
+    3300026: Mesh (2)
+    3300028: Mesh (20)
+    3300030: Mesh (22)
+    3300032: Mesh (23)
+    3300034: Mesh (24)
+    3300036: Mesh (25)
+    3300038: Mesh (3)
+    3300040: Mesh (4)
+    3300042: Mesh (5)
+    3300044: Mesh (6)
+    3300046: Mesh (7)
+    3300048: Mesh (8)
+    3300050: Mesh (9)
+    3300052: Mesh 5
+    3300054: silla
+    3300056: Techo
+    4300000: Cube
+    4300002: Techo
+    4300004: Mesh (2)
+    4300006: Mesh (3)
+    4300008: Mesh 5
+    4300010: silla
+    4300012: Mesh (4)
+    4300014: Mesh (20)
+    4300016: Libros
+    4300018: cuack
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Directional Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

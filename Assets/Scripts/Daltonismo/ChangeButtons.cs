@@ -39,15 +39,17 @@ public class ChangeButtons : MonoBehaviour
             ButtonsTable[2].SetActive(false);
             ButtonsTable[3].SetActive(true);
             
-        }else if (questionNumber == 4 && correctQuestions >= 1)
+        }else if (questionNumber == 4 && correctQuestions <= 3)
         {
             ButtonsTable[3].SetActive(false);
             ButtonsTable[4].SetActive(true);
+            ButtonsTable[5].SetActive(false);
         }
-        else if (questionNumber == 4 && correctQuestions <= 1)
+        else if (questionNumber == 4 && correctQuestions == 4)
         {
             ButtonsTable[3].SetActive(false);
             ButtonsTable[5].SetActive(true);
+            ButtonsTable[4].SetActive(false);
         }
     }
 
