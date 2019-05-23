@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class ManagerOptometria : MonoBehaviour
 {
+  
     public GameObject[] imageTest;
     public ManagerTest managerTest;
     

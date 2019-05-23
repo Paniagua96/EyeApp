@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ActionEvents: MonoBehaviour
 {
+ 
     public ManagerTest managerTest;
     public ManagerOptometria managerOptometria;
 
@@ -41,8 +42,7 @@ public class ActionEvents: MonoBehaviour
         Initiate.Fade("MainMenu", Color.black, 0.7f);
     }
 
-
-
+   
     public void Exit()
     {
         Application.Quit();
